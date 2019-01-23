@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/raypereda/stamp-dispenser.svg?branch=master)](https://travis-ci.com/raypereda/stamp-dispenser)
+
 Here's a classic problem in dynamic programming. 
 
 Suppose we have stamps that have denominations specified in a set D. For example, D = {100, 25, 5, 1}. 
