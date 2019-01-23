@@ -3,7 +3,7 @@ package stamps_test
 import (
 	"fmt"
 
-	"github.com/raypereda/stamps"
+	"github.com/raypereda/stamp-dispenser/stamps"
 )
 
 func Example_dispense1() {
